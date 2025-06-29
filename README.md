@@ -89,4 +89,4 @@ Non-functional requirements define the system’s **quality attributes**, such a
 
 Understanding the difference between functional and non-functional requirements is critical for planning, designing, and validating a successful software system.
 
-
+![Use Case Diagram for Booking System](alx-booking-uc.png)
